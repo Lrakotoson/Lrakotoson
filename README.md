@@ -69,10 +69,9 @@
 
 ---
 
-
+<div align="center">
 <img alt="Lrakotoson's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lrakotoson&show_icons=true&hide_border=true&count_private=true">
-
-<img alt = "Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lrakotoson&hide=html,javascript">
+</div>
 
 [website]: https://loicrakotoson.com
 [twitter]: https://twitter.com/Lrakotoson1
