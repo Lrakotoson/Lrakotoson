@@ -1,3 +1,5 @@
+<img align="center" alt="Lrakotoson banner" width="100%" src="https://raw.githubusercontent.com/Lrakotoson/Lrakotoson/master/Lrakotoson_banner.gif">
+
 ### 👋 Hello world, I'm Loïc - aka [Lrakotoson][website]
 
 - 🔭 I’m currently working on some @opscidia projects.
