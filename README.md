@@ -2,7 +2,7 @@
 
 ### 👋 Hello world, I'm Loïc - aka [Lrakotoson][website]
 
-- 🔭 I’m currently working on some @opscidia projects.
+- 🔭 I’m currently working on some [@opscidia](https://github.com/opscidia) projects.
 - 🌱 I’m currently learning everything 📄 everyday.
 - ⚡ Fun fact: I like watching the skies 🔭
 
