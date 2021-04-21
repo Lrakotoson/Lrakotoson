@@ -72,7 +72,7 @@
 ---
 
 <div align="center">
-<img alt="Lrakotoson's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lrakotoson&show_icons=true&hide_border=true&count_private=true">
+<img alt="Lrakotoson's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lrakotoson&show_icons=true&hide_border=true&count_private=true&theme=react">
 </div>
 
 [website]: https://loicrakotoson.com
