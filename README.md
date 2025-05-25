@@ -8,7 +8,6 @@
 
 ### 📬 Connect with me:
 [<img align="center" alt="loicrakotoson.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">][website]
-[<img align="center" alt="Lrakotoson | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
 [<img align="center" alt="Lrakotoson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
 [<img align="center" alt="Lrakotoson | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg">][mail]
 
@@ -71,11 +70,6 @@
 
 ---
 
-<div align="center">
-<img alt="Lrakotoson's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lrakotoson&show_icons=true&hide_border=true&count_private=true&theme=react">
-</div>
-
 [website]: https://loicrakotoson.com
-[twitter]: https://twitter.com/Lrakotoson1
 [linkedin]: https://www.linkedin.com/in/loicrakotoson/?locale=en_US
 [mail]: mailto:contact@loicrakotoson.com
